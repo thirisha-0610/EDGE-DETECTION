@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+# NAME : THIRISHA A
+# REG NO: 212223040228
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
